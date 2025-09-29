@@ -19,7 +19,7 @@ informacion_personal["ciudad"] = "Quito"  # cambiamos la ciudad
 print("Ciudad modificada a:", informacion_personal["ciudad"])
 
 # 3) Agregar nueva clave-valor relacionada con la profesión
-informacion_personal["profesion_detalle"] = "Desarrolladora Backend con 3 años de experiencia"
+informacion_personal["profesion_detalle"] = "Agente Investigador de la Policia Judicial, 4 años de experiencia"
 print("\nSe agregó 'profesion_detalle':", informacion_personal["profesion_detalle"])
 
 # 4) Verificar existencia de "telefono" y agregar si no existe
